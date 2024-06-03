@@ -35,5 +35,4 @@ To use the frontend application, follow the instructions below:
 Enjoy using the product transaction management system!
 
 ## Deployment
-The frontend application is deployed and can be accessed at [https://sarvjitkumar-roxiler.onrender.com/](https://sarvjitkumar-roxiler.onrender.com/).
-S
+The frontend application is deployed and can be accessed at [https://roxiler-frontend-sarvjitkumar.vercel.app/](https://roxiler-frontend-sarvjitkumar.vercel.app/).
